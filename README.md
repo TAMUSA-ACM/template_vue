@@ -1,6 +1,6 @@
 # ViaLink
 An app that connects a user with Via services 
-###Clone: git clone https://github.com/TAMUSA-ACM/template_vue.git 
-###cd template_vue 
-###Install: npm install 
-###vue ui
+1. Clone: git clone https://github.com/TAMUSA-ACM/template_vue.git 
+2. cd template_vue 
+3. Install: npm install 
+4. vue ui
